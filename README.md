@@ -6,7 +6,7 @@
 
 built with **React, Next.js, Tailwind CSS and Prisma** and hosted with [Netlify](https://netlify.com)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fee1998e-7f19-42c4-b0ed-a24dc300e717/deploy-status)](https://app.netlify.com/sites/tw-itte-r/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f9c76470-6a44-44e9-83b4-25f7d5f6ce1a/deploy-status)](https://app.netlify.com/sites/tw-itte-r/deploys)
 
 ![demo](https://raw.githubusercontent.com/abrahamcarvalhoo/twitter/main/public/images/demo.png)
 
